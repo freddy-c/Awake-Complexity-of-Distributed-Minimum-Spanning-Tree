@@ -1,0 +1,10 @@
+[project]
+name = "awake-complexity-of-distributed-minimum-spanning-tree"
+version = "0.1.0"
+description = "An implementation of the awake optimal distributed randomized algorithm to find an MST presented by Augustine, Moses Jr. and Pandurangan"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.7",
+    "networkx>=3.6",
+]

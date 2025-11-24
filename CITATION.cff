@@ -1,0 +1,8 @@
+@inproceedings{augustine2024awake,
+  title={Awake complexity of distributed minimum spanning tree},
+  author={Augustine, John and Moses Jr, William K and Pandurangan, Gopal},
+  booktitle={International Colloquium on Structural Information and Communication Complexity},
+  pages={45--63},
+  year={2024},
+  organization={Springer}
+}
